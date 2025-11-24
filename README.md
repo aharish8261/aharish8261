@@ -15,7 +15,7 @@ My philosophy:
 
 ---
 
-## 🔧 The Systems & Technologies I Build
+## The Systems & Technologies I Build
 
 - Agentic AI systems: single-agent, multi-agent, autonomous workflows, domain copilots  
 - Multi-agent orchestration → planning, reasoning, negotiation, verification  
@@ -28,7 +28,7 @@ My philosophy:
 
 ---
 
-## 💡 My Primary Leadership and Engineering Activities
+## My Primary Leadership and Engineering Activities
 
 - Turning ambiguous AI ideas into actionable system architectures  
 - Designing multi-agent workflows that remain predictable and debuggable  
@@ -41,7 +41,7 @@ My philosophy:
 
 ---
 
-## 🚀 Distinguished Work in AI Platforms & Multi-Agent Systems
+## Distinguished Work in AI Platforms & Multi-Agent Systems
 
 While much of my enterprise work is confidential, the concepts show up in my repos:
 
@@ -57,7 +57,7 @@ I value clarity, robustness, and operational reliability over flashy demos.
 
 ---
 
-## 🔍 Deep-Dive Areas in My Ongoing AI Exploration
+## Deep-Dive Areas in My Ongoing AI Exploration
 
 - Deterministic multi-agent reasoning patterns  
 - Scaling agentic AI in enterprises without complexity explosions  
@@ -93,7 +93,7 @@ Additional: Generative AI Leadership, Tableau Pro, Power BI Specialist, SQL, Apa
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aharish8261&theme=tokyo-night&hide_border=true&area=true" />
@@ -101,7 +101,7 @@ Additional: Generative AI Leadership, Tableau Pro, Power BI Specialist, SQL, Apa
 
 ---
 
-# 🛠️ Technologies I Use
+# Technologies I Use
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Additional: Generative AI Leadership, Tableau Pro, Power BI Specialist, SQL, Apa
 
 ---
 
-# 🤝 Let’s Connect
+# Let’s Connect
 
 If you're building Agentic AI systems, enterprise copilots, automation platforms, or next-gen LLM ecosystems, I’d love to collaborate, brainstorm, or contribute.
 
