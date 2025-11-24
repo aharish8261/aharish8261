@@ -2,9 +2,8 @@
   <img src="assets/banner.png" alt="Harish Agoram – Agentic AI Leader Banner"/>
 </p>
 
-<img align="right" src="assets/profile.png" width="180" style="border-radius: 10px; margin-left: 20px;" />
 
-# Hi, I'm **Harish Agoram** 👋
+# Hi, I'm **Harish Agoram**
 
 I build enterprise-grade **Agentic AI systems** and help organizations transform how they operate using autonomous and semi-autonomous AI architectures. My work blends strategy, architecture, and hands-on engineering—ensuring AI systems don’t just look good in demos, but ship reliably in real-world environments where scale, security, compliance, and uptime matter.
 
