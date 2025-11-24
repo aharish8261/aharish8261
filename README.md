@@ -16,7 +16,7 @@ My philosophy:
 
 ---
 
-## 🔧 What I Work On
+## 🔧 The Systems & Technologies I Build
 
 - Agentic AI systems: single-agent, multi-agent, autonomous workflows, domain copilots  
 - Multi-agent orchestration → planning, reasoning, negotiation, verification  
@@ -29,7 +29,7 @@ My philosophy:
 
 ---
 
-## 💡 What I Spend Most Days Doing
+## 💡 My Primary Leadership and Engineering Activities
 
 - Turning ambiguous AI ideas into actionable system architectures  
 - Designing multi-agent workflows that remain predictable and debuggable  
@@ -42,7 +42,7 @@ My philosophy:
 
 ---
 
-## 🚀 Projects & Work I’m Proud Of
+## 🚀 Distinguished Work in AI Platforms & Multi-Agent Systems
 
 While much of my enterprise work is confidential, the concepts show up in my repos:
 
@@ -58,7 +58,7 @@ I value clarity, robustness, and operational reliability over flashy demos.
 
 ---
 
-## 🔍 What I'm Exploring These Days
+## 🔍 Deep-Dive Areas in My Ongoing AI Exploration
 
 - Deterministic multi-agent reasoning patterns  
 - Scaling agentic AI in enterprises without complexity explosions  
