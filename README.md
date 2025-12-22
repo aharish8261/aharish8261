@@ -7,9 +7,9 @@
 
 I build enterprise-grade **Agentic AI systems** and help organizations transform how they operate using autonomous and semi-autonomous AI architectures. My work blends strategy, architecture, and hands-on engineering—ensuring AI systems don’t just look good in demos, but ship reliably in real-world environments where scale, security, compliance, and uptime matter.
 
-Across a 22+ year career, I’ve led global engineering teams (Singapore, UK, India) delivering large-scale AI platforms, ML systems, and next-gen automation frameworks for Fortune 500 organizations. I specialize in multi-agent reasoning, LLM orchestration, RAG pipelines, vector databases, and full-stack AI applications deeply integrated with enterprise workflows.
+Across a 20+ year career, I’ve led global engineering teams (Singapore, UK, India) delivering large-scale AI platforms, ML systems, and next-gen automation frameworks for Fortune 500 organizations. I specialize in multi-agent reasoning, LLM orchestration, RAG pipelines, vector databases, and full-stack AI applications deeply integrated with enterprise workflows.
 
-I’ve shipped **67+ AI/ML systems** across CV, NLP, predictive analytics, and agentic automation—delivering **$15M+** in measurable business impact.  
+I’ve shipped **substantial AI/ML systems** across CV, NLP, predictive analytics, and agentic automation—delivering **$15M+** in measurable business impact.  
 My philosophy:  
 **Clarity over complexity. Architecture over hacks. Production over prototypes.**
 
@@ -74,7 +74,7 @@ I value clarity, robustness, and operational reliability over flashy demos.
 - **Master’s Program in Data Science — Edureka Global (11 tracks)**  
 - **MBA (IT) — Universitas 21 Global, Singapore**  
 - **MS (IT) — Universitas 21 Global, Singapore**  
-- **BSc (Electronics) — Bangalore University**
+- **Bachelor's in Electronics — Bangalore University**
 
 Additional: Generative AI Leadership, Tableau Pro, Power BI Specialist, SQL, Apache Spark & Scala, Be10X AI Mastery.
 
